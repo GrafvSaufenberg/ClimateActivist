@@ -3,6 +3,8 @@ game 'gta5'
 
 version '1.0'
 
+lua54 'yes'
+
 author 'DerGraf05 and Ludaro'
 
 description 'A simple climate activist script to stick on the street'
